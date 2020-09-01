@@ -1,0 +1,482 @@
+/* Large devices  */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .video-text h3 {
+        font-size: 24px;
+    }
+
+    #expertise {
+        padding-top: 55px;
+        padding-bottom: 70px;
+    }
+
+    .studio-text p {
+        margin-left: 26px;
+        margin-top: -23px;
+    }
+}
+
+/* Medium devices */
+@media (min-width: 768px) and (max-width: 991.98px) {
+     /* --=====Header Part Start=====-- */
+     .navbar-toggler {
+        border: none;
+    }
+
+    .navbar-toggler i {
+        font-size: 30px;
+        color: #ffffff;
+        border: 1px solid #fff;
+        padding: 5px 10px;
+    }
+
+    .navbar-nav {
+        text-align: center;
+        background: rgb(72, 0, 167);
+        padding: 10px 0px;
+    }
+
+    .banner-overly {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+
+    .banner-text h3 {
+        font-size: 44px;
+    }
+
+    .banner-text p {
+        margin: 0px -30px;
+    }
+    /* --=====Header Part End=====-- */
+
+    /* --=====Story Part Start=====-- */
+
+    #our-story {
+        padding-top: 40px;
+        padding-bottom: 51px;
+    }
+
+    .story-img {
+        width: 50%;
+        margin-left: 186px;
+    }
+
+    .our-story-text {
+        text-align: center;
+        margin-top: 30px;
+    }
+    /* --=====Story Part End=====-- */
+
+    /* --=====Video Part Start=====-- */
+    .video-bg-overly {
+        padding-top: 105px;
+        padding-bottom: 125px;
+    }
+    /* --=====Video Part End=====-- */
+
+    /* --=====expertise Part End=====-- */
+    #expertise {
+        padding-top: 40px;
+        padding-bottom: 76px;
+    }
+
+    .expertise-item p {
+        padding: 0px 8px;
+    }
+    /* --=====expertise Part End=====-- */
+
+    /* --=====team Part Start=====-- */
+    .team-overly {
+        padding-top: 43px;
+        padding-bottom: 54px;
+    }
+
+    .become {
+        padding-top: 44px;
+    }
+
+    .become h3 {
+        padding-bottom: 23px;
+    }
+    /* --=====team Part End=====-- */
+
+    /* --=====Work Part Start=====-- */
+    #work {
+        padding-top: 43px;
+        padding-bottom: 54px;
+    }
+
+    .load-more {
+        padding-top: 47px;
+    }
+    /* --=====Work Part End=====-- */
+
+    /* --=====Review Part Start=====-- */
+    .review-overly {
+        padding-top: 43px;
+        padding-bottom: 70px;
+    }
+    /* --=====Review Part End=====-- */
+
+    /* --=====Client Part Start=====-- */
+    #client {
+        padding-top: 50px;
+        padding-bottom: 41px;
+    }
+
+    .client-submit-btn {
+        text-align: center;
+    }
+
+    .client-heading {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .clinet-image {
+        text-align: center;
+    }
+    /* --=====Client Part End=====-- */
+
+    /* --=====footer Part Start=====-- */
+    .footer-overly {
+        padding-top: 50px;
+        padding-bottom: 49px;
+    }
+
+    .footer-part {
+        text-align: center;
+    }
+
+    .footer-heading {
+        text-align: center;
+    }
+
+    .send i {
+        width: 97%;
+        margin-left: 21px;
+    }
+
+    .media-icon {
+        text-align: center;
+    }
+
+    .footer-left {
+        text-align: center;
+        margin-top: 30px;
+    }
+
+    .footer-right p {
+        text-align: center;
+        padding-top: 10px;
+    }
+    /* --=====footer Part End=====-- */
+}
+
+/* Small devices */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /* --=====Header Part Start=====-- */
+    .navbar-toggler {
+        border: none;
+    }
+
+    .navbar-toggler i {
+        font-size: 30px;
+        color: #ffffff;
+        border: 1px solid #fff;
+        padding: 5px 10px;
+    }
+
+    .navbar-nav {
+        text-align: center;
+        background: rgb(72, 0, 167);
+        padding: 10px 0px;
+    }
+
+    .banner-overly {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+
+    .banner-text h3 {
+        font-size: 60px;
+    }
+
+    .banner-text p {
+        margin: 0px -30px;
+    }
+    /* --=====Header Part End=====-- */
+
+    /* --=====Story Part Start=====-- */
+    .our-story-text {
+        text-align: center;
+        margin-top: 30px;
+    }
+
+    .our-story-text h4 {
+        padding-bottom: 26px;
+    }
+    /* --=====Story Part End=====-- */
+    
+    /* --=====Video Part Start=====-- */
+    .video-bg-overly {
+        padding-top: 79px;
+        padding-bottom: 90px;
+    }
+    /* --=====Video Part End=====-- */
+
+    /* --=====EXPERTISE Part End=====-- */
+    #expertise {
+        padding-top: 40px;
+        padding-bottom: 43px;
+    }
+
+    .expertise-item p {
+        padding: 0px 7px;
+    }
+    /* --=====EXPERTISE Part End=====-- */
+
+    /* --=====Team Part Start=====-- */
+    .team-overly {
+        padding-top: 48px;
+        padding-bottom: 49px;
+    }
+
+    .become {
+        padding-top: 40px;
+    }
+
+    .become h3 {
+        padding-bottom: 22px;
+    }
+    /* --=====Team Part End=====-- */
+
+    /* --=====Work Part Start=====-- */
+    #work {
+        padding-top: 39px;
+        padding-bottom: 55px;
+    }
+
+    .work-btn button {
+        padding: 10px 5px;
+        margin: 0px 2px;
+    }
+    /* --=====Work Part End=====-- */
+
+    /* --=====Review Part Start=====-- */
+    .review-overly {
+        padding-top: 31px;
+        padding-bottom: 60px;
+    }
+
+    .review-item p {
+        padding-bottom: 27px;
+    }
+    /* --=====Review Part End=====-- */
+
+    /* --=====Client Part Start=====-- */
+    .client-heading {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .client-submit-btn {
+        text-align: center;
+    }
+
+    .clinet-image {
+        text-align: center;
+    }
+    /* --=====Client Part End=====-- */
+
+    /* --=====Footer Part Start=====-- */
+    .footer-overly {
+        padding-top: 44px;
+        padding-bottom: 50px;
+    }
+
+    .footer-part {
+        text-align: center;
+    }
+
+    .footer-heading {
+        text-align: center;
+    }
+
+    .media-icon {
+        text-align: center;
+    }
+
+    .send i {
+        width: 96%;
+        margin-left: 20px;
+    }
+
+    .footer-left {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .footer-right p {
+        text-align: center;
+        padding-top: 10px;
+    }
+    /* --=====Footer Part End=====-- */
+}
+
+/* Extra small devices */
+@media (max-width: 575.98px) {
+    /* --=====Header Part Start=====-- */
+    .navbar-toggler {
+        border: none;
+    }
+
+    .navbar-toggler i {
+        font-size: 30px;
+        color: #ffffff;
+        border: 1px solid #fff;
+        padding: 5px 10px;
+    }
+
+    .navbar-nav {
+        text-align: center;
+        background: rgb(72, 0, 167);
+        padding: 10px 0px;
+    }
+
+    .banner-overly {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+
+    .banner-text h3 {
+        font-size: 35px;
+    }
+
+    .banner-text p {
+        margin: 0px -5px;
+    }
+    /* --=====Header Part End=====-- */
+    
+    /* --=====Our Story Part Start=====-- */
+    #our-story {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .our-story-text h3 {
+        padding-top: 30px;
+        text-align: center;
+    }
+
+    .our-story-text a {
+        margin-left: 55px;
+    }
+
+    .story-learn-more {
+        margin-left: 69px;
+    }
+    /* --=====Our Story Part End=====-- */
+    
+    /* --=====video Part Start=====-- */
+    .video-bg-overly {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    /* --=====video Part End=====-- */
+
+    /* --=====Expertise Part Start=====-- */
+    #expertise {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .expertise-item i {
+        font-size: 50px;
+        padding-top: 55px;
+        background: -webkit-linear-gradient(#00e0d0, #4aa3cc);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+
+    .expertise-item p {
+        padding: 0px 11px;
+    }
+    /* --=====Expertise Part End=====-- */
+    
+    /* --=====Team Part Start=====-- */
+    .team-overly {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    /* --=====Team Part End=====-- */
+    
+    /* --=====Work Part Start=====-- */
+    #work {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .work-btn button {
+        padding: 9px 5px;
+        margin: 3px 2px;
+    }
+    /* --=====Work Part End=====-- */
+
+    /* --=====Review Part Start=====-- */
+    .review-overly {
+        padding-top: 70px;
+        padding-bottom: 60px;
+    }
+
+    .review-item p {
+        font-size: 14px;
+    }
+    /* --=====Review Part End=====-- */
+
+    /* --=====Client Part Start=====-- */
+    .client-heading h3 {
+        text-align: center;
+    }
+
+    .client-submit-btn {
+        text-align: center;
+    }
+
+    .client-heading {
+        text-align: center;
+        padding-top: 30px;
+    }
+
+    .clinet-image {
+        text-align: center;
+    }
+    /* --=====Client Part End=====-- */
+
+    /* --=====Footer Part Start=====-- */
+    .footer-part {
+        text-align: center;
+    }
+
+    .touch {
+        text-align: center;
+    }
+
+    .send i {
+        width: 96%;
+        margin-left: 20px;
+    }
+
+    .footer-left {
+        text-align: center;
+        margin-top: 30px;
+    }
+
+    .footer-right p {
+        padding-top: 10px;
+        text-align: center;
+    }
+    /* --=====Footer Part End=====-- */
+
+    
+}
